@@ -3,7 +3,7 @@
 Cloud consultancy project for **COMP50061 Cloud Infrastructure & Design**
 (APIIT / University of Staffordshire) by **Malan De Mel**.
 
-![Architecture](Architecture/medsys_architecture.png)
+   ![Architecture](Medsys-AWS-Architecture/architecture/medsys_architecture.png)
 
 ## The Scenario
 MedSys is a private healthcare provider supporting 40+ clinics through a web portal
@@ -38,5 +38,5 @@ growing file storage and security threats.
 5. Overnight cutover, then optimise
 
 ## Report
-- [Read the report (PDF)](Report/MedSys_Cloud_Report.pdf)
-- [Download Word version](Report/MedSys_Cloud_Report.docx)
+   - [Read the report (PDF)](Medsys-AWS-Architecture/report/MedSys_Cloud_Report.pdf)
+   - [Download Word version](Medsys-AWS-Architecture/report/MedSys_Cloud_Report.docx)
